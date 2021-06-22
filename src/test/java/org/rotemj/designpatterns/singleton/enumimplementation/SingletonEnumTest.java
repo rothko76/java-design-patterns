@@ -10,7 +10,9 @@ class SingletonEnumTest {
 	void test() {
 		SingletonEnum instance1 = SingletonEnum.INSTANCE;
 		SingletonEnum instance2 = SingletonEnum.INSTANCE;
-		assertEquals(instance1,instance2);
+		assertNotNull(instance1);
+		assertNotNull(instance2);
+		assert(instance1 == instance2);
 	}
 
 }
