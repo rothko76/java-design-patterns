@@ -1,8 +1,9 @@
-package org.rotemj.designpatterns.singleton.earlyinstansiation;
+package org.rotemj.designpatterns.creational.singleton.earlyinstansiation;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+import org.rotemj.designpatterns.creational.singleton.earlyinstansiation.EarlyInstanciation;
 
 class EarlyInstanciationTest {
 

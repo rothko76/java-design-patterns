@@ -1,4 +1,4 @@
-package org.rotemj.designpatterns.singleton.earlyinstansiation;
+package org.rotemj.designpatterns.creational.singleton.earlyinstansiation;
 
 public class EarlyInstanciation {
 private static EarlyInstanciation obj = new EarlyInstanciation(); 

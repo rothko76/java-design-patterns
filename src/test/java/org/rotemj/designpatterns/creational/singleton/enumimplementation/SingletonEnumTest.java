@@ -1,8 +1,9 @@
-package org.rotemj.designpatterns.singleton.enumimplementation;
+package org.rotemj.designpatterns.creational.singleton.enumimplementation;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+import org.rotemj.designpatterns.creational.singleton.enumimplementation.SingletonEnum;
 
 class SingletonEnumTest {
 

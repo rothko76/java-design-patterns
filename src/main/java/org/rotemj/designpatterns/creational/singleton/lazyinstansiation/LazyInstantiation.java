@@ -1,4 +1,4 @@
-package org.rotemj.designpatterns.singleton.lazyinstansiation;
+package org.rotemj.designpatterns.creational.singleton.lazyinstansiation;
 
 public class LazyInstantiation {
 	private static LazyInstantiation instance;

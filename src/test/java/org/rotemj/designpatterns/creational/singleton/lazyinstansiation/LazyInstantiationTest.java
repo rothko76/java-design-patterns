@@ -1,4 +1,4 @@
-package org.rotemj.designpatterns.singleton.lazyinstansiation;
+package org.rotemj.designpatterns.creational.singleton.lazyinstansiation;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
