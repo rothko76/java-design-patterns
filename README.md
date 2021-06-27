@@ -1,5 +1,5 @@
 # java-design-patterns
-some playing around with design patterns
-now trying my first pull request
-push from eclipse
-yup
+This repo was created to explore design patterns.
+I start simple and will hopefully go through all the patterns even the least famous ones.
+Feel free to suggest corrections/patterns/bugs etc.
+yoyo
